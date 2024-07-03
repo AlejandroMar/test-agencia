@@ -1,0 +1,20 @@
+<project>
+    <documents></documents>
+    <dmdesigns>
+        <dmdesign active>
+            <dmdesignskill skill="tw.colors">
+                <dmcolor key="dark_blue" color="#072f47" shade-50="#dae0e3" shade-100="#afb9c2" shade-200="#8594a1" shade-300="#5d7082" shade-400="#354e64" shade-500="#072f47" shade-600="#08293d" shade-700="#092334" shade-800="#091d2a" shade-900="#071721" shade-950="#021019"/>
+                <dmcolor key="soft_orange" color="EAB56F" shade-50="#fcf4e9" shade-100="#fae7d0" shade-200="#f7dab8" shade-300="#f4ce9f" shade-400="#efc187" shade-500="EAB56F" shade-600="#c99c60" shade-700="#aa8351" shade-800="#8b6c42" shade-900="#6e5534" shade-950="#523f27"/>
+                <dmcolor key="black_blue" color="#111827" shade-50="#dbdcdf" shade-100="#aeb0b6" shade-200="#83868f" shade-300="#5b5e6a" shade-400="#343947" shade-500="#111827" shade-600="#101622" shade-700="#0f131d" shade-800="#0c1019" shade-900="#090d14" shade-950="#06080e"/>
+                <dmcolor key="light_grayish_blue" color="EFEFF0" shade-50="#fdfdfd" shade-100="#fafafa" shade-200="#f7f7f8" shade-300="#f4f4f5" shade-400="#f2f2f3" shade-500="EFEFF0" shade-600="#cececf" shade-700="#adadae" shade-800="#8e8e8f" shade-900="#707071" shade-950="#545454"/>
+                <dmcolor key="pale_cyan" color="#9eecff" shade-50="#f0fcff" shade-100="#e1f9ff" shade-200="#d2f6ff" shade-300="#c2f3ff" shade-400="#b0efff" shade-500="#9eecff" shade-600="#88cbdc" shade-700="#73abb9" shade-800="#5e8c98" shade-900="#4a6f78" shade-950="#375359"/>
+                <dmcolor key="cyan" color="#00FFFF" shade-50="#d9ffff" shade-100="#c3ffff" shade-200="#abffff" shade-300="#8dffff" shade-400="#66ffff" shade-500="#00FFFF" shade-600="#00dcdc" shade-700="#00b9b9" shade-800="#009898" shade-900="#007878" shade-950="#005959"/>
+                <dmcolor key="indian_red" color="#CD5C5C" shade-50="#f7e7e7" shade-100="#f2cbc9" shade-200="#ebb0ad" shade-300="#e39491" shade-400="#d97976" shade-500="#CD5C5C" shade-600="#b14f4f" shade-700="#954343" shade-800="#7a3737" shade-900="#602b2b" shade-950="#482020"/>
+            </dmdesignskill>
+            <dmdesignskill skill="fonts" family_1="Raleway" h1_1 h2_1 h3_1 h4_1 name_3="titles" family_3="Raleway" h1_3="h1" h2_3="h2" h3_3="h3" h4_3="h4" name_4="text" family_4="Open Sans"></dmdesignskill>
+            <dmdesignskill skill="background" image_for_colors="true" advanced="true" filter_blur="0" filter_brightness="100" filter_contrast="100" filter_grayscale="0" filter_hue-rotate="0" filter_invert="0" filter_opacity="100" filter_saturate="100" filter_sepia="0"></dmdesignskill>
+            <dmdesignskill skill="tailwind"></dmdesignskill>
+        </dmdesign>
+    </dmdesigns>
+    <dmlocked tw-colors-gray="true" tw-colors-red="true" tw-colors-yellow="true" tw-colors-green="true" tw-colors-blue="true" tw-colors-indigo="true" tw-colors-purple="true" tw-colors-pink="true"></dmlocked>
+</project>

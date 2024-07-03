@@ -30,10 +30,10 @@ function showSlide(index) {
     Array.from(paginationContainer.children).forEach((paginationItem, i) => {
         const div = paginationItem.querySelector('div');
         if (i === index) {
-            div.classList.add('h-6', 'w-6', 'bg-soft_orange-500'); // Make the active item larger and darker
+            div.classList.add('scale-125', 'bg-soft_orange-500'); // Make the active item larger and darker
             div.classList.remove('bg-soft_orange-300'); // Remove the lighter color
         } else {
-            div.classList.remove('h-6', 'w-6', 'bg-soft_orange-500'); // Make the non-active items their original size and color
+            div.classList.remove( 'scale-125', 'bg-soft_orange-500'); // Make the non-active items their original size and color
             div.classList.add('bg-soft_orange-300'); // Add the lighter color
         }
     });

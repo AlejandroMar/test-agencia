@@ -1,0 +1,23 @@
+.bg-soft_orange-300 {
+ 
+    background-color: red;
+}
+
+   /*background-color: "#f4ce9f"*/;
+
+
+.list-item::before {   
+    font-family: 'Font Awesome 5 Free';
+    content: "\f00c";
+    margin-right: 7px;
+    color: #f7b948;
+    font-weight: 700; 
+}
+
+.contact-link::before {   
+    font-family: 'Font Awesome 5 Free';
+    content: "\f0e0";
+    margin-right: 7px;
+    color: #f7b948;
+    font-weight: 700; 
+}
